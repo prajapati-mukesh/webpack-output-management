@@ -10,7 +10,7 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
    },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Webpack Output Management',
+      title: 'Webpack Development',
     }),
     new CleanWebpackPlugin(),
   ],
